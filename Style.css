@@ -1,0 +1,29 @@
+*{
+box-sizing:border-box;
+}
+.card {
+border:1px solid gray;
+width:50%;
+margin:0 auto;
+padding:20px;
+border-radius:5px;
+box-shadow:5px 5px 5px gray;
+}
+.card-num,.card-holder {
+margin:15px 0;
+}
+.card-numb input{
+padding:10px 6px;
+width:23%;
+}
+.card-holder input{
+width:100%;
+padding:10px 15px; 
+}
+.card-expiry select,.card-expiry input {
+padding:10px;
+width:150%;
+}
+input {
+font-size:32px;
+}
