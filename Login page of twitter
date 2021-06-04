@@ -1,0 +1,17 @@
+<!doctype html>
+<Html>
+<Head></head>
+<Title>login page</Title>
+<Body>
+<IMG alt="twitter" src="twitter.jpg"><br/>
+<H1> log in to Twitter</H1><br/>
+<Input type =" text " placeholder="phone number,email,or username" name="">
+<Br/>
+<Input type="password" placeholder="password" name="">
+<br/>
+<Button>log in</Button>
+<Br/>
+<a href="#">forgot password?</a>
+<a href="#">signup for twitter<a>
+</Body>
+</Html>
