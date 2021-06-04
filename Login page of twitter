@@ -1,7 +1,8 @@
 <!doctype html>
 <Html>
-<Head></head>
+<Head>
 <Title>login page</Title>
+</Head>
 <Body>
 <IMG alt="twitter" src="twitter.jpg"><br/>
 <H1> log in to Twitter</H1><br/>
